@@ -10,6 +10,9 @@ This project uses a YOLO-based deep learning model to detect potholes in road vi
 - Filters overlapping detections to avoid duplicate predictions per frame
 - Processes video input and displays results in real-time
 
+## Screenshots
+<img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/b04479d8-eea1-4dca-a161-24b2d5cdd9f6" />
+
 ## Folder Structure
 
 ```
